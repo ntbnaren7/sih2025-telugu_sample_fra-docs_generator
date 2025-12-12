@@ -25,7 +25,7 @@ Generate **realistic synthetic Telugu FRA (Forest Rights Act) documents** for AI
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/telugu-fra-synthesizer.git
+git clone https://github.com/ntbnaren7/telugu-fra-synthesizer.git
 cd telugu-fra-synthesizer
 ```
 
